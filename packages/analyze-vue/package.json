@@ -10,5 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "jquery": "^3.6.0"
-  }
+  },
+  "gitHead": "98bf6491fc5559eb5d94ffe07a705153fc469536"
 }

@@ -1,1 +1,1 @@
-mono repo
+mono repo analyze-react
